@@ -12,7 +12,7 @@ def insert(request):
 def connection():
     connection_name = "lithe-sonar-416410:europe-west1:wbs-mysql-db"
     db_user = "root"
-    db_password = "188782Im"
+    db_password = "password"
     schema_name = "weather_cloud"
 
     driver_name = 'mysql+pymysql'
