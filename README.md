@@ -66,3 +66,8 @@ Project 6 Moosic : Unsupervised ML: Clustering Songs
   
   Tools: sklearn, matplotlib ,  scaler, kMeans, API
 
+Project 7 : Supervised ML : Predicting House prices
+
+  Discription : Use Machine learning and prediction algorithme to predict new houses prices after training the model on existing data and prices. 
+  
+  Tools: sklearn, numpy, scaler, kMeans, lazy_predict, XGBRegressor, Random Forest, Transformer, 
