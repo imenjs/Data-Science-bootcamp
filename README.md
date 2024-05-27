@@ -83,4 +83,4 @@ Project 8 Generative AI : Food specialised chatbot
 
   Discription : Create an APP for Anime Recomandation System, User Anime list and rating and a Chatbot specialised in Anime.
   
-  Tools: API, WEB Scraping, SQL, Streamlit, OpenAI, 
+  Tools: API, WEB Scraping, SQL, Streamlit, OpenAI, Langchaine, cosine_similarity, pearson similarity, Surprise Library (SVD), TfidfVectorizer
