@@ -62,6 +62,7 @@ Project 5 Gans : Data Engineering case study
   Tools : WEb Scraping, BeautifulSoup, json, API, sqlalchemy, Requests, Goole Cloud, SQL
   
 Project 6 Moosic : Unsupervised ML: Clustering Songs  
+
   Discription : Use API to download a sample of spotify music and Cluster them using similarity algorighme
   
   Tools: sklearn, matplotlib ,  scaler, kMeans, API
@@ -70,4 +71,16 @@ Project 7 : Supervised ML : Predicting House prices
 
   Discription : Use Machine learning and prediction algorithme to predict new houses prices after training the model on existing data and prices. 
   
-  Tools: sklearn, numpy, scaler, kMeans, lazy_predict, XGBRegressor, Random Forest, Transformer, 
+  Tools: sklearn, numpy, scaler, kMeans, lazy_predict, XGBRegressor, Random Forest, Transformer
+  
+Project 8 Generative AI : Food specialised chatbot
+
+  Discription : Use Machine and GenativeAI to train a model to answer food question by traianing the model on 5 PDFs food book . 
+  
+  Tools: llma, Langchain, Retrieval Augmented Generation (RAG), Streamlit
+
+  FInal Project : The Alchemist Anime
+
+  Discription : Create an APP for Anime Recomandation System, User Anime list and rating and a Chatbot specialised in Anime.
+  
+  Tools: API, WEB Scraping, SQL, Streamlit, OpenAI, 
