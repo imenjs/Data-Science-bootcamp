@@ -33,12 +33,36 @@ Project 3 Eniac : discounts strategy
       Maintaining revenue
       Discount strategies
 
-   Tools:  Python, matplotlib and seaborn Library
-
+   Tools: Python, matplotlib and seaborn Library
 
 
 Project 4 Eniac : AB testing (Eniac website choice of button)
 
+Discription : Eniac's website team settled on 4 different new versions to test against the original “Interact” button:
 
+  Connect
+  Learn
+  Help
+  Services
+  
+  The metrics that were deemed relevant enough to be tracked were the following:
+  
+  Click-through rate (CTR) for the homepage : Amount of clicks on the button divided by the total visits to the page.
+  Drop-off rate for the category pages: Percentage of visitors who exit the site from a given category page (like Interact, Connect, Learn, etc.) without exploring any of its subpages. A lower drop-off rate is preferable
+  Homepage-return rate for the category pages : Measures how often users who visit specific category pages (Interact, Connect, Learn, etc.) from the library homepage end up returning to the homepage. If they frequently     return to the homepage, Ideally, we want to minimize the homepage-return rate, which would indicate that users are finding what they need on the first try.
+  it was decided that for a version to be considered superior, a minimum increase in click-through rate of 30% had to be detected.
+  The length of the experiment was established at 21 days.
+
+Tools : Chi Squared pairwise Test, Post_hoc Test, 
 
 Project 5 Gans : Data Engineering case study
+
+  Discription : Collect Data to help Gans Come with the best strategy to distributes the E_Scooter, we collected data about :City, Airport, weather, Populations
+  
+  Tools : WEb Scraping, BeautifulSoup, json, API, sqlalchemy, Requests, Goole Cloud, SQL
+  
+Project 6 Moosic : Unsupervised ML: Clustering Songs  
+  Discription : Use API to download a sample of spotify music and Cluster them using similarity algorighme
+  
+  Tools: sklearn, matplotlib ,  scaler, kMeans, API
+
