@@ -7,6 +7,7 @@ Project 1 Hangman Game :
   Discription : Player need to choose the degree of difficulty from 1 to 3 , the player will be given more attempts for the hardest words
   
   Tools: Python , Google Collab 
+  
 
 Project 2 Eniac :
 Magist case study 
@@ -17,6 +18,7 @@ Magist case study
     Are deliveries fast enough to keep Eniac’s customers happy?
   
   Tools: SQl, Tableau
+  
 
 Project 3 Eniac : discounts strategy 
 
@@ -34,6 +36,7 @@ Project 3 Eniac : discounts strategy
       Discount strategies
 
    Tools: Python, matplotlib and seaborn Library
+   
 
 
 Project 4 Eniac : AB testing (Eniac website choice of button)
@@ -53,13 +56,17 @@ Discription : Eniac's website team settled on 4 different new versions to test a
   it was decided that for a version to be considered superior, a minimum increase in click-through rate of 30% had to be detected.
   The length of the experiment was established at 21 days.
 
-Tools : Chi Squared pairwise Test, Post_hoc Test, 
+Tools : Chi Squared pairwise Test, Post_hoc Test
+
+
 
 Project 5 Gans : Data Engineering case study
 
   Discription : Collect Data to help Gans Come with the best strategy to distributes the E_Scooter, we collected data about :City, Airport, weather, Populations
   
   Tools : WEb Scraping, BeautifulSoup, json, API, sqlalchemy, Requests, Goole Cloud, SQL
+
+  
   
 Project 6 Moosic : Unsupervised ML: Clustering Songs  
 
@@ -67,11 +74,15 @@ Project 6 Moosic : Unsupervised ML: Clustering Songs
   
   Tools: sklearn, matplotlib ,  scaler, kMeans, API
 
+  
+
 Project 7 : Supervised ML : Predicting House prices
 
   Discription : Use Machine learning and prediction algorithme to predict new houses prices after training the model on existing data and prices. 
   
   Tools: sklearn, numpy, scaler, kMeans, lazy_predict, XGBRegressor, Random Forest, Transformer
+
+  
   
 Project 8 Generative AI : Food specialised chatbot
 
